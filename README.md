@@ -19,6 +19,6 @@ An overarching capstone project was used to develop a proposal utilizing multipl
 This exercise allowed us to incorporation many of MBA topics in handling a real business case.
 
 # Team Opti-Health
-Team Goal: Optimizing health in BC and minimizing the cost of healthcare starting early
+Team Goal: Optimizing health in BC and minimizing the cost of healthcare starting early.     
 Team Presentation: [here](https://github.com/NoushinN/Health-in-a-Box/blob/master/Team%20opti-Health%20presentation.pdf)
 
